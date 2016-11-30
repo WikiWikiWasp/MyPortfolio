@@ -1,4 +1,12 @@
 {
-  "name": "application-name",
-  "version": "0.0.1"
+  "name": "my-portfolio",
+  "version": "0.0.1",
+  "description": "Jason Flinn's Portfolio",
+  "license": "UNLICENSED",
+  "main": "app.js",
+  "author": "Jason Flinn",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WikiWikiWasp/MyPortfolio.git"
+  }
 }
